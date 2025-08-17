@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+//该注释用于测试git上传
 struct student {
     char sname[10];
     char sno[10];
