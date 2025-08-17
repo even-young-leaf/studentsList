@@ -1,0 +1,3 @@
+/Users/evenyoung/CLionProjects/studentsList/cmake-build-debug/CMakeFiles/studentsList.dir
+/Users/evenyoung/CLionProjects/studentsList/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/evenyoung/CLionProjects/studentsList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
